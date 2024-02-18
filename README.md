@@ -18,7 +18,7 @@ For loci with uncertain ploidy, such as human X chromosome STR, it is recommende
 
 ## Access to TRcaller
 
-Go to TRcaller website, https://trcaller.com/index.aspx
+Go to TRcaller website, https://trcaller.com/index.aspx (the site is currently down, and we are working on it to bring it back online)
 
 ## Preprocessing Tools
 
@@ -77,4 +77,4 @@ Xuewen Wang, Meng Huang, Bruce Budowle, Jianye Ge. 2023. Precise and ultrafast t
 
 ## Contact
 
-Please send questions to jianye.ge@unthsc.edu, gejianye@gmail.com, xuewen.wang@unthsc.edu, or xwang.kib@gmail.com
+Please send questions to jianye.ge@unthsc.edu or gejianye@gmail.com
