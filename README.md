@@ -73,7 +73,7 @@ where the in.reduced,bam is the reduced bam file.
 
 Please cite this work:
 
-Xuewen Wang, Meng Huang, Bruce Budowle, Jianye Ge. 2023. Precise and ultrafast tandem repeat variant detection in massively parallel sequencing reads. bioRxiv 2023.02.15.528687 https://www.biorxiv.org/content/10.1101/2023.02.15.528687v1
+Wang X, Huang M, Budowle B, Ge J. TRcaller: a novel tool for precise and ultrafast tandem repeat variant genotyping in massively parallel sequencing reads. Frontiers in Genetics. 2023;14. https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2023.1227176/full
 
 ## Contact
 
